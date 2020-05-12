@@ -8,7 +8,7 @@
  * @contributers adnan@barakatdesigns.net
  * @version 0.1a
  */
-class SMTP_validateEmail {
+class SMTPvalidateEmail {
 
  /**
   * PHP Socket resource to remote MTA
